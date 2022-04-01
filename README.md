@@ -42,7 +42,7 @@
 
 ------
 
-# [Online Coding](_web_py3/index.html)
+# [Online Coding](https://mingyue0094.github.io/wiki/_web_py3/index.html)
 
 
 
