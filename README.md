@@ -1,4 +1,4 @@
-# 首页
+# [首页](https://mingyue0094.github.io/wiki)
 
 
 # 一、[Python基础](_md/Python基础.md)
@@ -44,7 +44,7 @@
 # [Online Coding](https://mingyue0094.github.io/wiki/_web_py3/index.html)
 
 
-# [首页](https://mingyue0094.github.io/wiki)
+
 
 
 
