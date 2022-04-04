@@ -1,10 +1,9 @@
 # 首页
 
+
 # 一、[Python基础](_md/Python基础.md)
 
 - 基础语法
-
-- 变量
 
 - 部分算法
 
@@ -45,6 +44,8 @@
 # [Online Coding](https://mingyue0094.github.io/wiki/_web_py3/index.html)
 
 
+# [首页](https://mingyue0094.github.io/wiki)
+
 
 
 
@@ -53,7 +54,7 @@
 <!-- <iframe height = 100% width = 100% src = "https://api.btstu.cn/yan/api.php" frameborder = 0 > </iframe> -->
 
 
-<!-- <iframe height = 100% width = 100% src = "https://api.lovelive.tools/api/SweetNothings" frameborder = 0 > </iframe> -->
+<iframe height = 100% width = 100% src = "https://api.lovelive.tools/api/SweetNothings" frameborder = 0 > </iframe>
 
 
 ------
